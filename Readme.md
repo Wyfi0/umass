@@ -18,3 +18,9 @@ An issue I ran into when trying to use a button to change modes (continuity / vo
 The prototype I made is pretty messy wiring wise, but is functional in the way I intended. Honestly it's not what I imagined, but what I imagined was out of the scope of 2 weeks.
 
 If I were to continue this project, I would add more functionality, like measuring amps and the resistance of resistors, I would also try using different microcontrollers like the rp2040 and esp32 to see how they function differently. Also I would design a case for it to all fit in.
+
+## Pictures!
+![](https://github.com/Wyfi0/umass/blob/master/thing.jpg?raw=true)
+![](https://github.com/Wyfi0/umass/blob/master/thing2.jpg?raw=true)
+![](https://github.com/Wyfi0/umass/blob/master/thing3.jpg?raw=true)
+
